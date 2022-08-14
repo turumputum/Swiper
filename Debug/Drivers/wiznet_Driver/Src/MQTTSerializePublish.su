@@ -1,0 +1,6 @@
+../Drivers/wiznet_Driver/Src/MQTTSerializePublish.c:30:9:MQTTSerialize_publishLength	40	static
+../Drivers/wiznet_Driver/Src/MQTTSerializePublish.c:54:9:MQTTSerialize_publish	48	static
+../Drivers/wiznet_Driver/Src/MQTTSerializePublish.c:103:9:MQTTSerialize_ack	40	static
+../Drivers/wiznet_Driver/Src/MQTTSerializePublish.c:138:9:MQTTSerialize_puback	32	static
+../Drivers/wiznet_Driver/Src/MQTTSerializePublish.c:152:9:MQTTSerialize_pubrel	32	static
+../Drivers/wiznet_Driver/Src/MQTTSerializePublish.c:165:9:MQTTSerialize_pubcomp	32	static

@@ -1,0 +1,2 @@
+../Drivers/wiznet_Driver/Src/httpUtil.c:20:9:http_get_cgi_handler	32	static
+../Drivers/wiznet_Driver/Src/httpUtil.c:44:9:http_post_cgi_handler	32	static

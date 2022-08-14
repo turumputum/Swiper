@@ -1,0 +1,2 @@
+../Core/pwmLed/hsv.c:3:11:HsvToRgb	32	static
+../Core/pwmLed/hsv.c:57:11:RgbToHsv	32	static

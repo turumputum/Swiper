@@ -1,0 +1,12 @@
+../Drivers/wiznet_Driver/Src/httpParser.c:29:6:unescape_http_url	32	static
+../Drivers/wiznet_Driver/Src/httpParser.c:48:6:make_http_response_head	40	static
+../Drivers/wiznet_Driver/Src/httpParser.c:95:6:find_http_uri_type	24	static
+../Drivers/wiznet_Driver/Src/httpParser.c:128:7:substring	32	static
+../Drivers/wiznet_Driver/Src/httpParser.c:155:6:parse_http_request	24	static
+../Drivers/wiznet_Driver/Src/httpParser.c:247:11:get_http_param_value	48	static
+../Drivers/wiznet_Driver/Src/httpParser.c:324:9:get_http_uri_name	24	static
+../Drivers/wiznet_Driver/Src/httpParser.c:345:6:inet_addr_	56	static
+../Drivers/wiznet_Driver/Src/httpParser.c:370:10:ATOI	32	static
+../Drivers/wiznet_Driver/Src/httpParser.c:391:6:mid	40	static
+../Drivers/wiznet_Driver/Src/httpParser.c:413:13:replacetochar	24	static
+../Drivers/wiznet_Driver/Src/httpParser.c:430:16:C2D	16	static

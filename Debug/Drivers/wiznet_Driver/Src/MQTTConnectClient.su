@@ -1,0 +1,6 @@
+../Drivers/wiznet_Driver/Src/MQTTConnectClient.c:26:9:MQTTSerialize_connectLength	32	static
+../Drivers/wiznet_Driver/Src/MQTTConnectClient.c:57:9:MQTTSerialize_connect	48	static
+../Drivers/wiznet_Driver/Src/MQTTConnectClient.c:134:9:MQTTDeserialize_connack	48	static
+../Drivers/wiznet_Driver/Src/MQTTConnectClient.c:171:9:MQTTSerialize_zero	40	static
+../Drivers/wiznet_Driver/Src/MQTTConnectClient.c:201:9:MQTTSerialize_disconnect	16	static
+../Drivers/wiznet_Driver/Src/MQTTConnectClient.c:213:9:MQTTSerialize_pingreq	16	static

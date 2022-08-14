@@ -1,0 +1,3 @@
+../Drivers/wiznet_Driver/Src/MQTTSubscribeClient.c:27:9:MQTTSerialize_subscribeLength	24	static
+../Drivers/wiznet_Driver/Src/MQTTSubscribeClient.c:49:9:MQTTSerialize_subscribe	48	static
+../Drivers/wiznet_Driver/Src/MQTTSubscribeClient.c:99:9:MQTTDeserialize_suback	48	static

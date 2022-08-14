@@ -1,0 +1,4 @@
+../Core/gestureConfig/gestureConfig.c:10:5:configReader	32	static
+../Core/gestureConfig/gestureConfig.c:38:6:set_default_config	4	static
+../Core/gestureConfig/gestureConfig.c:53:6:write_default_config	4216	static
+../Core/gestureConfig/gestureConfig.c:111:6:writeErrorTxt	4168	static

@@ -1,0 +1,12 @@
+../Drivers/wiznet_Driver/Src/socket.c:105:8:socket	32	static
+../Drivers/wiznet_Driver/Src/socket.c:209:8:close	16	static
+../Drivers/wiznet_Driver/Src/socket.c:252:8:listen	16	static
+../Drivers/wiznet_Driver/Src/socket.c:268:8:connect	24	static
+../Drivers/wiznet_Driver/Src/socket.c:313:8:disconnect	24	static
+../Drivers/wiznet_Driver/Src/socket.c:334:9:send	24	static
+../Drivers/wiznet_Driver/Src/socket.c:402:9:recv	32	static
+../Drivers/wiznet_Driver/Src/socket.c:507:9:sendto	32	static
+../Drivers/wiznet_Driver/Src/socket.c:615:9:recvfrom	40	static
+../Drivers/wiznet_Driver/Src/socket.c:797:9:ctlsocket	24	static
+../Drivers/wiznet_Driver/Src/socket.c:843:9:setsockopt	16	static
+../Drivers/wiznet_Driver/Src/socket.c:896:9:getsockopt	24	static

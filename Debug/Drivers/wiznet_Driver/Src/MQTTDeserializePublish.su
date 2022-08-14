@@ -1,0 +1,2 @@
+../Drivers/wiznet_Driver/Src/MQTTDeserializePublish.c:36:9:MQTTDeserialize_publish	48	static
+../Drivers/wiznet_Driver/Src/MQTTDeserializePublish.c:83:9:MQTTDeserialize_ack	48	static
